@@ -108,14 +108,14 @@ Hold: 15.6s / 15.0s / GOAL REACHED!
 ```
 
 ### SLR - 오른쪽 GOAL REACHED
-![slr right](results/slr_goal_R_179_4deg.png)
+![slr right](results/slr_goal_R_174.5deg.png)
 ```
 SLR Mode (R) / Lift Angle: 59.7
 Hold: 15.0s / 15.0s / GOAL REACHED!
 ```
 
 ### SLR - 왼쪽 GOAL REACHED
-![slr left](results/slr_goal_L_174_5deg.png)
+![slr left](results/slr_goal_L_174.5deg.png)
 ```
 SLR Mode (L) / Lift Angle: 67.1
 Hold: 15.0s / 15.0s / GOAL REACHED!
