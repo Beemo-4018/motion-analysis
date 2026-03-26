@@ -101,7 +101,7 @@ Hold: 15.0s / 15.0s / GOAL REACHED!
 ```
 
 ### Shoulder Ladder - 정면 GOAL REACHED
-![shoulder front](results/shoulder_front_goal.png)
+![shoulder front](results/shoulder_front_19046663838125.png)
 ```
 Mode: front / L Shoulder: 173.1
 Hold: 15.6s / 15.0s / GOAL REACHED!
