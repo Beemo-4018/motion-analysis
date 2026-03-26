@@ -94,7 +94,7 @@ State: bottom / Count: 4
 ```
 
 ### Shoulder Ladder - 측면 GOAL REACHED
-![shoulder side](results/shoulder_side_goal_180_0deg.png)
+![shoulder side](results/shoulder_side_goal_180.0deg.png)
 ```
 Mode: side (L) / Shoulder: 180.0
 Hold: 15.0s / 15.0s / GOAL REACHED!
