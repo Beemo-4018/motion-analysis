@@ -5,11 +5,11 @@ import os
 
 mp_pose = mp.solutions.pose
 mp_drawing = mp.solutions.drawing_utils
-    x_diff = abs(left_shoulder.x - right_shoulder.x)
-    if x_diff > 0.08:
-        return "front"
-    else:
-        return "side"
+x_diff = abs(left_shoulder.x - right_shoulder.x)
+if x_diff > 0.08:
+    return "front"
+else:
+    return "side"
 
 def analyze_front(landmarks, frame):
     l_hip   = [landmarks[23].x, landmarks[23].y]
