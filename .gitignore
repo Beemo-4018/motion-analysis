@@ -1,2 +1,4 @@
 data/raw/*.MOV
 data/raw/*.mp4
+results/
+data/
